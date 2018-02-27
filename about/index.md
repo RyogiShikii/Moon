@@ -9,14 +9,14 @@ comments: false
 <center><a href="https://github.com/RyogiShikii"><b>The Story</b></a> of Daniel.</center>
 
 ## Basic Infomation
-Song Guo(Daniel)
-Born in China 1992
-guosongraiden@gmail.com
-phone: 778-835-0966
-Height: 6'7
-Yes, I'm tall
-No, I don't play basketball often
-The weather is perfect up here
+Song Guo(Daniel)</br>
+Born in China 1992</br>
+Email: guosongraiden@gmail.com</br>
+Phone: 778-835-0966</br>
+Height: 6'7</br>
+Yes, I'm tall</br>
+No, I don't play basketball often</br>
+The weather is perfect up here</br>
 LOL
 
 ## Features
