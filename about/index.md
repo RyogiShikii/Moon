@@ -1,12 +1,23 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: All About Me
+tags: [about]
+date: 2018-02-26
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="https://github.com/RyogiShikii"><b>The Story</b></a> of Daniel.</center>
+
+## Basic Infomation
+Song Guo(Daniel)
+Born in China 1992
+guosongraiden@gmail.com
+phone: 778-835-0966
+Height: 6'7
+Yes, I'm tall
+No, I don't play basketball often
+The weather is perfect up here
+LOL
 
 ## Features
 * Minimal, you can focus on your content
