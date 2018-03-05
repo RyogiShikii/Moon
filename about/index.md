@@ -19,8 +19,9 @@ No, I don't play basketball often<br>
 The weather is perfect up here<br>
 LOL
 
-## Features
-* Minimal, you can focus on your content
+## Education&Skills
+* Xi'An University of Architecture And Technology: Bachelor degree in EE
+* <b>University oF Western Ontario</b>: Master degree in software engineering 
 * Responsive
 * Disqus integration
 * Syntax highlighting
