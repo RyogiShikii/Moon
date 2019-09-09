@@ -1,7 +1,7 @@
 # Daniel's blog with 'Moon' Jekyll Theme  
 
 ## See some my work
-* [Chunghwa Investment](https://chunghwa.ca)
+* [Chunghwa Investment](http://chunghwa.ca)
 * [Cashmart PayDay](http://mycashmart.com)
 
 ## Features of this jekyll theme
