@@ -1,5 +1,8 @@
 # Daniel's blog with 'Moon' Jekyll Theme  
 
+## See some my work
+https://chunghwa.ca
+http://mycashmart.com
 
 ## Features of this jekyll theme
 * Minimal, you can focus on your content
